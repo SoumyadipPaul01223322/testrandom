@@ -1,0 +1,1 @@
+print("HELLO WORLD") # type: ignore
